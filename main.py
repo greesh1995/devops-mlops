@@ -1,0 +1,1 @@
+print("on bhatuka bhiravaya namaha")
